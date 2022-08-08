@@ -12,10 +12,10 @@
 
 <ul>
     <li>NodeJs / Python</li>
-    <li>Flutter / React e Ionic</li>
+    <li>Flutter / React / Ionic</li>
     <li>Banco de dados Sql e NoSql</li>
-    <li>Docker e Kubernets</li>
-    <li>NestJS e Express</li>
+    <li>Docker / Kubernets</li>
+    <li>NestJS / Express</li>
 </ul>
 
 <h2> Contato: </h2>
