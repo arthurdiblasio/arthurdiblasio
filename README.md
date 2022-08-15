@@ -6,9 +6,8 @@
 <li> :smile: Cada dia mais estusiasmado com a Tecnologia e tudo que ela pode nos fornecer e ajudar nosso dia-a-dia </li>
 <li> :soccer: Em meus momentos livres, adoro jogar futebol, andar de Kart, jogar videogame e estar com a família </li>
 </ul>
-<h2> Um pouco das tecnologias que trabalhei: </h2>
 <h3>:purple_heart: Atuo como Desenvolvedor Full Stack na U4crypto desde Março de 2021 </h3>
-<h3>:books: Tecnologias que já trabalhei:  </h3>
+<h3>:books: Um pouco das tecnologias que já trabalhei:  </h3>
 
 <ul>
     <li>NodeJs / Python</li>
