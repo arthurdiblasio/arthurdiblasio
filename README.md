@@ -14,7 +14,8 @@
     <li>Flutter / React / Ionic</li>
     <li>Banco de dados Sql e NoSql</li>
     <li>Docker / Kubernets</li>
-    <li>NestJS / Express</li>
+    <li>NestJS</li>
+    <li>TypeORM / Express</li>
 </ul>
 
 <h2> Contato: </h2>
