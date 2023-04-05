@@ -1,4 +1,4 @@
-<h2>Olá, sou o Arthur Di Blasio, tudo bem? 👋</h2>
+<h2>Olá, me chamo Arthur Di Blasio, tudo bem? 👋</h2>
 <ul>
 <li> :baby: Nasci em Outubro de 1996 </li>
 <li> :couple: Sou casado desde Setembro de 2021 </li>
