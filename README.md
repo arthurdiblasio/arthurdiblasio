@@ -2,7 +2,7 @@
 <ul>
 <li> :baby: Nasci em Outubro de 1996 </li>
 <li> :couple: Sou casado desde Setembro de 2021 </li>
-<li> :book: Graduado em Sistemas de Informação </li>
+<li> :book: Graduado em Sistemas de Informação e pós graduando em Arquitetura de Software Distribuído</li>
 <li> :smile: Cada dia mais estusiasmado com a Tecnologia e tudo que ela pode nos fornecer e ajudar nosso dia-a-dia </li>
 <li> :soccer: Em meus momentos livres, adoro jogar futebol, andar de Kart, jogar videogame e estar com a família </li>
 </ul>
