@@ -11,7 +11,7 @@
 
 <ul>
     <li>NodeJs / Python</li>
-    <li>Flutter / React / Ionic</li>
+    <li>Flutter / React / Ionic / Angular</li>
     <li>Banco de dados Sql e NoSql</li>
     <li>Docker / Kubernets</li>
     <li>NestJS</li>
