@@ -6,16 +6,16 @@
 <li> :smile: Cada dia mais estusiasmado com a Tecnologia e tudo que ela pode nos fornecer e ajudar nosso dia-a-dia </li>
 <li> :soccer: Em meus momentos livres, adoro jogar futebol, andar de Kart, jogar videogame e estar com a família </li>
 </ul>
-<h3>:purple_heart: Atuo como Desenvolvedor Full Stack na U4crypto desde Março de 2021 </h3>
+<h3>:purple_heart: Atuo como Líder Técnico na Okto desde Fevereiro de 2024 </h3>
 <h3>:books: Um pouco das tecnologias que já trabalhei:  </h3>
 
 <ul>
-    <li>NodeJs / Python</li>
+    <li>NodeJs / Go / Python</li>
     <li>Flutter / React / Ionic / Angular</li>
     <li>Banco de dados Sql e NoSql</li>
     <li>Docker / Kubernets</li>
-    <li>NestJS</li>
-    <li>TypeORM / Express</li>
+    <li>NestJS / Express / Fastify</li>
+    <li>TypeORM / Prisma </li>
 </ul>
 
 <h2> Contato: </h2>
